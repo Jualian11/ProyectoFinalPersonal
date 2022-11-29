@@ -1,0 +1,17 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/spotyjv-121a0.appspot.com/o/The-Strokes-Banner.webp?alt=media&token=f9452e4e-7942-44b0-b1e4-dff2d716f525');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30%;
+}
+
+.icono{
+    align-items: flex-start ;
+    
+}
+
+.fechas{
+    background-color: black;
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/spotyjv-121a0.appspot.com/o/the-strokes-concert.webp?alt=media&token=f7a033f5-3dce-4df9-a1a6-3264b058ee84');
+}
